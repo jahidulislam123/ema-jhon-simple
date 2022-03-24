@@ -26,7 +26,15 @@
     font-weight: 700;
     position: absolute;
     bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
+
+}
+
+.button-text {
+    margin-right: 10px;
 }
 
 .button-cart:hover {
@@ -39,6 +47,7 @@
 
 .product-info p {
     margin-bottom: 0;
+
 
 }
 

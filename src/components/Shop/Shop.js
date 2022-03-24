@@ -37,6 +37,9 @@ const Shop = () => {
                 <p>
                     selected Items:{cart.length};
                 </p>
+                <br /> <br />
+                <button>Jahid</button>
+                <h6>Daffodil internation univarsity</h6>
             </div>
 
 
